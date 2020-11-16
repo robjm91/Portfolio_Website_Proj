@@ -1,14 +1,21 @@
-
-/*
-
-hr {
+.dotted-hr {
     border-style: none;
     border-top-style: dotted;
-    border-color: yellow;
+    border-color: blue;
     border-width: 20px;
     width: 40%;
-}
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
 
-*/
+  .centerMe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+
+
 
 
