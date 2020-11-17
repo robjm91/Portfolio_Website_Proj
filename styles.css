@@ -8,17 +8,22 @@
     margin-bottom: 50px;
   }
 
-  .centerIMG {
+.centerIMG {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 40%;
   }
 
-  .centerTXT {
+.centerTXT {
     text-align: center;
     border: none;
   }
+
+
+
+
+
 
 
 
