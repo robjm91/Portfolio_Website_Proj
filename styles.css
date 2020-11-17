@@ -20,7 +20,9 @@
     border: none;
   }
 
-
+.spaceTXT {
+    word-spacing: 50px;
+}
 
 
 
