@@ -20,13 +20,35 @@
     border: none;
   }
 
+.projectPlaceholderTXT {
+    text-align:right;
+    margin-top: 130px;
+    margin-bottom: 50px;
+}
+
 .spaceTXT {
     word-spacing: 50px;
 }
 
 .floatLeft {
+    border-color: black;
+    border-style: solid;
     float: left;
+    margin-top: 50px;
+    margin-bottom: 20px;
   }
+
+  .floatRight {
+    float: right;
+    margin-top: 20px;
+    margin-bottom: 0px;
+  }
+
+.alignTXTLeft {
+    text-align: left;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
 
 
 
