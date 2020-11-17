@@ -1,7 +1,7 @@
 .dotted-hr {
     border-style: none;
     border-top-style: dotted;
-    border-color: blue;
+    border-color: #007bff;
     border-width: 20px;
     width: 40%;
     margin-top: 50px;
